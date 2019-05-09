@@ -1,11 +1,5 @@
 
-教你6步定制你的Ubuntu桌面
-
-原创：Linux中国 https://linux.cn/article-3082-1.html
-原创：LCTT https://linux.cn/article-3082-1.html 译者： JonathanKang
-本文地址：https://linux.cn/article-3082-1.html
-
-2014-05-24 21:21    评论: 18 收藏: 9 分享: 9    
+6步定制你的Ubuntu桌面
 
 对于那些想要一个易于使用的界面的用户，Ubuntu是一个很好的Linux发行版，并且对于一个Linux新手也可以说是最好的Linux发行版。不过这产生了一些副作用，那就是，对于界面和外观，Canonical公司已经为用户做了很多设定，尤其是Unity桌面环境。
 
